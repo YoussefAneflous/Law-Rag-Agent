@@ -1,7 +1,5 @@
 # Application d'Ingestion de Documents Juridiques Marocains
 
-Cette application reproduit fidèlement la méthodologie de votre script Python Colab pour l'ingestion et l'analyse de documents juridiques marocains, avec une interface web moderne et sécurisée.
-
 ## 🚀 Fonctionnalités
 
 ### ✅ Reproduction Exacte du Script Python
@@ -136,5 +134,3 @@ Pour vérifier que tout est correctement configuré :
 - **Bilingue** : Français/Arabe avec RTL
 - **Accessible** : Standards WCAG
 - **Moderne** : Design professionnel
-
-Cette application offre la même puissance que votre script Python avec l'avantage d'une interface utilisateur moderne et sécurisée !
